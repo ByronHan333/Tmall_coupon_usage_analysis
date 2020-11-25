@@ -13,11 +13,9 @@ This project analyzes the product coupon usage of an E-commerce brand in the las
 
 * The goal of this project is to understand the customers, evaluate coupon usage result and provide actionable recommendation for 2020.
 * Final Presentation Powerpoint here: [(Powerpoint)](final_presentation.pdf).
+* Final Python notebook here: [(Python notebook)](Coupon%20Usage%20Analysis%20and%20Recommendations.ipynb)
 
-## TLDR, this project includes:
-* Clustering customers into ket segments, provide coupon strategy for each segment [(Python notebook)](Coupon%20Usage%20Analysis%20and%20Recommendations.ipynb)
-* Data Transformation & model selection in R [(R transformation section & Model section)](https://rpubs.com/zhan12/692404)
-* Model evaluation & Business insight visualization in Tableau ([Powerpoint](final_presentation.pdf), [Tableau workbook](Tableau/mmm.twb))
-* Side diagonistic[(R side diagnosis section)](https://rpubs.com/zhan12/692404)
-* Budget spending optimization & recommendation in R [(R optimization section)](https://rpubs.com/zhan12/692404)
-* Final presentation with company team [(Powerpoint)](final_presentation.pdf)
+## This project includes:
+* Clustered customers into key segments, provided coupon strategy for each segment [(Python notebook)](Coupon%20Usage%20Analysis%20and%20Recommendations.ipynb)
+* Compared coupon performance in last month and breakdown by segments, provided prescriptive coupon design strategy for next month[(Powerpoint)](final_presentation.pdf) [(Tableau)](viz.twb)
+* Provide predictive modelling strategy on coupon usage rate, used unsupervised modeling based customer segment and machine learning models([Powerpoint](final_presentation.pdf) [(Python notebook)](Coupon%20Usage%20Analysis%20and%20Recommendations.ipynb)
