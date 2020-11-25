@@ -16,6 +16,6 @@ This project analyzes the product coupon usage of an E-commerce brand in the las
 * Final Python notebook here: [(Python notebook)](Coupon%20Usage%20Analysis%20and%20Recommendations.ipynb)
 
 ## This project includes:
-* Clustered customers into key segments, provided coupon strategy for each segment [(Python notebook)](Coupon%20Usage%20Analysis%20and%20Recommendations.ipynb)
-* Compared coupon performance in last month and breakdown by segments, provided prescriptive coupon design strategy for next month[(Powerpoint)](final_presentation.pdf) [(Tableau)](viz.twb)
-* Provide predictive modelling strategy on coupon usage rate, used unsupervised modeling based customer segment and machine learning models([Powerpoint](final_presentation.pdf) [(Python notebook)](Coupon%20Usage%20Analysis%20and%20Recommendations.ipynb)
+* Clustered customers into key segments, provided coupon strategy for each segment. [(Python notebook)](Coupon%20Usage%20Analysis%20and%20Recommendations.ipynb)
+* Compared coupon performance in last month and breakdown by segments, provided prescriptive coupon design strategy for next month. [(Powerpoint)](final_presentation.pdf) [(Tableau)](viz.twb)
+* Provide predictive modelling strategy on coupon usage rate, used unsupervised modeling based customer segment and machine learning models. ([Powerpoint)](final_presentation.pdf) [(Python notebook)](Coupon%20Usage%20Analysis%20and%20Recommendations.ipynb)
